@@ -19,8 +19,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.thoth.pub
-  baseUrl: /status
+  cname: status.thoth.pub
+  # baseUrl: /status
   logoUrl: https://cdn.thoth.pub/thoth_logo.png
   name: Thoth Status
   introTitle: "Thoth Status Dashboard"
