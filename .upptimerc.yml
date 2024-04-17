@@ -1,6 +1,9 @@
 owner: thoth-pub
 repo: status
 
+assignees:
+  - ja573
+
 sites:
   - name: Thoth APP
     url: https://thoth.pub/admin
