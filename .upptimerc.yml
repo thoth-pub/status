@@ -40,7 +40,7 @@ sites:
       - 400
 
 status-website:
-  theme: thoth
+  themeUrl: https://status.thoth.pub/thoth.css
   cname: status.thoth.pub
   logoUrl: https://cdn.thoth.pub/thoth_logo.png
   favicon: https://cdn.thoth.pub/thoth_logo.png
