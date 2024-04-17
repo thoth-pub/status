@@ -17,6 +17,9 @@ sites:
   - name: Thoth Website
     url: https://thoth.pub/
     icon: https://cdn.thoth.pub/thoth_logo.png
+  - name: Strapi
+    url: https://cms.thoth.pub/
+    icon: https://cdn.thoth.pub/thoth_logo.png
   - name: Nextcloud
     url: https://cloud.obpcloud.org/status.php
     icon: https://cdn.thoth.pub/thoth_logo.png
