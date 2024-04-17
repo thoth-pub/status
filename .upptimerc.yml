@@ -27,7 +27,10 @@ sites:
     url: https://mattermost.obpcloud.org
     icon: https://cdn.thoth.pub/thoth_logo.png
   - name: Matomo
-    url: https://analytics.openbookpublishers.com
+    url: https://analytics.openbookpublishers.com/index.php?module=Login
+    icon: https://cdn.thoth.pub/thoth_logo.png
+  - name: Matomo Tracker API
+    url: https://analytics.openbookpublishers.com/matomo.php
     icon: https://cdn.thoth.pub/thoth_logo.png
   - name: OBC Nextcloud
     url: https://cloud.openbookcollective.org/status.php
