@@ -43,6 +43,9 @@ status-website:
   name: Thoth Status
   introTitle: "Thoth Status Dashboard"
   introMessage: You can find more information about Thoth on [thoth.pub](https://thoth.pub/).
+  scripts:
+    - src: https://cdn.thoth.pub/analytics.js
+      async: true
   navbar:
     - title: Status
       href: /
