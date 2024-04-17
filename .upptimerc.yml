@@ -38,6 +38,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 400
+  - name: Test email notification
+    url: https://test.thoth.pub/
 
 status-website:
   cname: status.thoth.pub
