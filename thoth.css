@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-  color: var(--color-primary);
+  color: var(--color-primary) !important;
   cursor: pointer;
   transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
   transition-timing-function: cubic-bezier(.4,0,.2,1);
