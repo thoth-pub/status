@@ -39,7 +39,7 @@ sites:
       - 200
       - 400
   - name: Test Thoth site
-    url: https://thoth.pub
+    url: https://test.thoth.pub
 
 status-website:
   themeUrl: https://status.thoth.pub/thoth.css
