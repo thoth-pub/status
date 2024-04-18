@@ -38,8 +38,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 400
-  - name: Test Thoth site
-    url: https://thoth.pub
 
 status-website:
   themeUrl: https://status.thoth.pub/thoth.css
