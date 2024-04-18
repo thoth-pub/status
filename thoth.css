@@ -104,3 +104,14 @@ a.svelte-a08hsz.svelte-a08hsz {
   font-weight: 600;
 }
 
+.svelte-fqsq6s {
+  color: var(--color-primary);
+  cursor: pointer;
+  transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .2s;
+}
+
+.svelte-fqsq6s:hover {
+  color: var(--color-primary-400);
+}
