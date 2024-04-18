@@ -20,12 +20,12 @@
   --tag-down-background-color: #eb3b5a;
   --tag-degraded-background-color: #f7b731;
   --change-background-color: #f7b731;
-  --error-button-border-color: #1a46ad;
-  --error-button-background-color: #3867d6;
-  --error-button-color: #ffffff;
-  --submit-button-border-color: #1a46ad;
-  --submit-button-background-color: #3867d6;
-  --submit-button-color: #ffffff;
+  --error-button-border-color: var(--color-primary);
+  --error-button-background-color: var(--color-primary);
+  --error-button-color: var(--color-ternary-50);
+  --submit-button-border-color: var(--color-primary);
+  --submit-button-background-color: var(--color-primary);
+  --submit-button-color: var(--color-ternary-50);
   --graph-opacity: 1;
   --graph-filter: none;
 }
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5 {
   display: none;
 }
 
-a {
+a :not(.error-button) {
   color: var(--color-primary) !important;
   cursor: pointer;
   transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
