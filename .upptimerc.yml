@@ -41,6 +41,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 400
+  - name: OBP Website
+    url: https://www.openbookpublishers.com/
 
 status-website:
   themeUrl: https://status.thoth.pub/thoth.css
