@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5 {
   display: none;
 }
 
-a :not(.error-button) {
+a:not(.error-button) {
   color: var(--color-primary) !important;
   cursor: pointer;
   transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
@@ -88,8 +88,12 @@ a :not(.error-button) {
   transition-duration: .2s;
 }
 
-a:hover {
+a:not(.error-button):hover {
   color: var(--color-primary-400) !important;
+}
+
+a.error-button:hover {
+  background-color: var(--color-primary-400) !important;
 }
 
 a.svelte-a08hsz.svelte-a08hsz {
