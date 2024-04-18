@@ -42,17 +42,19 @@ h1, h2, h3, h4, h5 {
   display: none;
 }
 
-a.svelte-a08hsz.svelte-a08hsz {
+a {
   color: var(--color-primary);
-  font-weight: 600;
   cursor: pointer;
   transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
   transition-timing-function: cubic-bezier(.4,0,.2,1);
   transition-duration: .2s;
 }
 
-a.svelte-a08hsz.svelte-a08hsz:hover {
+a:hover {
   color: var(--color-primary-400);
 }
 
+a.svelte-a08hsz.svelte-a08hsz {
+  font-weight: 600;
+}
 
