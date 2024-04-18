@@ -1,7 +1,7 @@
-url: https://test.thoth.pub
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-18T15:41:41.298Z
+url: https://thoth.pub
+status: up
+code: 200
+responseTime: 589
+lastUpdated: 2024-04-18T15:47:08.722Z
 startTime: 2024-04-18T13:04:22.233Z
 generator: Upptime <https://github.com/upptime/upptime>
