@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5 {
   display: none;
 }
 
-a:not(.error-button) {
+a {
   color: var(--color-primary) !important;
   cursor: pointer;
   transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
@@ -90,6 +90,10 @@ a:not(.error-button) {
 
 a:not(.error-button):hover {
   color: var(--color-primary-400) !important;
+}
+
+a.error-button {
+  color: var(--error-button-color) !important;
 }
 
 a.error-button:hover {
