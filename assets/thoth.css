@@ -88,8 +88,12 @@ a :not(.error-button) {
   transition-duration: .2s;
 }
 
-a:hover {
+a:hover :not(.error-button) {
   color: var(--color-primary-400) !important;
+}
+
+a.error-button:hover {
+  background-color: var(--color-primary-400) !important;
 }
 
 a.svelte-a08hsz.svelte-a08hsz {
