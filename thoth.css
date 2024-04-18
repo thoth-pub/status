@@ -49,6 +49,12 @@ main {
   flex-grow: 1;
 }
 
+@media (min-width: 800px) {
+  main {
+    min-width: 800px;
+  }
+}
+
 .svelte-jbr799 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
@@ -56,7 +62,7 @@ main {
   opacity: 1 !important;
 }
 
-.svelte-jbr799 > p {
+.svelte-jbr799 p {
   max-width: 768px;
   padding-right: 2rem;
   padding-left: 2rem;
