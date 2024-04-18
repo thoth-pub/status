@@ -34,6 +34,17 @@ html {
   background-color: var(--color-ternary);
 }
 
+body {
+  padding: 0 !important;
+}
+
+footer {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  background-color: var(--color-ternary);
+  opacity: 1;
+}
+
 h1, h2, h3, h4, h5 {
   color: var(--color-secondary);
 }
@@ -51,7 +62,7 @@ a {
 }
 
 a:hover {
-  color: var(--color-primary-400);
+  color: var(--color-primary-400) !important;
 }
 
 a.svelte-a08hsz.svelte-a08hsz {
