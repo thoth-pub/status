@@ -60,5 +60,8 @@ status-website:
     - title: GitHub
       href: https://github.com/thoth-pub
 
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)<br>Copyright © 2024 Thoth Open Metadata.
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
