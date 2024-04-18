@@ -38,6 +38,17 @@ body {
   padding: 0 !important;
 }
 
+#sapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+}
+
 .svelte-jbr799 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
