@@ -9,7 +9,7 @@
   --card-background-color: #fff6d9;
   --nav-background-color: var(--color-ternary);
   --nav-border-bottom-color: var(--color-ternary);
-  --nav-current-border-bottom-color: var(--color-primary);
+  --nav-current-border-bottom-color: var(--color-ternary);
   --card-border-color: var(--color-ternary-50);
   --down-border-left-color: #eb3b5a;
   --down-background-color: #ffd0d2;
@@ -55,9 +55,13 @@ main {
   }
 }
 
+.logo.svelte-a08hsz img.svelte-a08hsz {
+  height: 5rem;
+}
+
 .svelte-jbr799 {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: var(--color-ternary);
   opacity: 1 !important;
 }
