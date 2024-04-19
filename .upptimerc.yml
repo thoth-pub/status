@@ -47,8 +47,6 @@ sites:
   - name: OBP Blog
     url: https://blogs.openbookpublishers.com/
     icon: https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png
-  - name: Test SMS Notification
-    url: https://thoth.pub
 
 status-website:
   themeUrl: https://status.thoth.pub/thoth.css
