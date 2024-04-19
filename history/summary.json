@@ -221,18 +221,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/thoth.pub.ico",
     "slug": "test-sms-notification",
     "status": "up",
-    "uptime": "2.44%",
-    "uptimeDay": "2.44%",
-    "uptimeWeek": "2.44%",
-    "uptimeMonth": "2.44%",
-    "uptimeYear": "2.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 537,
     "timeDay": 537,
     "timeWeek": 537,
     "timeMonth": 537,
     "timeYear": 537,
-    "dailyMinutesDown": {
-      "2024-04-19": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
