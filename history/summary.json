@@ -166,19 +166,19 @@
     "url": "https://cloud.openbookcollective.org/status.php",
     "icon": "https://openbookcollective.org/static/img/favicon.ico",
     "slug": "obc-nextcloud",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "89.99%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.83%",
-    "time": 1486,
-    "timeDay": 7563,
-    "timeWeek": 4531,
-    "timeMonth": 2318,
-    "timeYear": 1486,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.82%",
+    "time": 1477,
+    "timeDay": 6694,
+    "timeWeek": 4251,
+    "timeMonth": 2273,
+    "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-06-16": 144
+      "2024-06-16": 158
     }
   },
   {
