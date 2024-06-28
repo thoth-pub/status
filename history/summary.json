@@ -208,19 +208,19 @@
     "url": "https://blogs.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 3031,
-    "timeWeek": 1493,
-    "timeMonth": 1163,
-    "timeYear": 1052,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1051,
+    "timeDay": 2339,
+    "timeWeek": 1433,
+    "timeMonth": 1156,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-06-28": 0
+      "2024-06-28": 10
     }
   }
 ]
