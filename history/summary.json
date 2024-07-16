@@ -130,10 +130,10 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 1197,
@@ -142,6 +142,7 @@
     "timeMonth": 1020,
     "timeYear": 1197,
     "dailyMinutesDown": {
+      "2024-07-16": 1,
       "2024-06-24": 36
     }
   },
@@ -150,9 +151,9 @@
     "url": "https://analytics.openbookpublishers.com/matomo.php",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "matomo-tracker-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
@@ -162,6 +163,7 @@
     "timeMonth": 126,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2024-07-16": 0,
       "2024-06-24": 36
     }
   },
@@ -174,12 +176,12 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.89%",
     "time": 1342,
     "timeDay": 942,
     "timeWeek": 1006,
-    "timeMonth": 2173,
+    "timeMonth": 917,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2024-06-16": 144
