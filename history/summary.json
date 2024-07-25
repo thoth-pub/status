@@ -94,11 +94,11 @@
     "url": "https://cloud.obpcloud.org/status.php",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 835,
     "timeDay": 2389,
@@ -106,7 +106,7 @@
     "timeMonth": 935,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-07-25": 7
+      "2024-07-25": 0
     }
   },
   {
