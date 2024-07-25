@@ -1,7 +1,7 @@
 url: https://cloud.obpcloud.org/status.php
-status: down
-code: 502
-responseTime: 496
-lastUpdated: 2024-07-25T08:16:54.324Z
+status: up
+code: 200
+responseTime: 780
+lastUpdated: 2024-07-25T08:38:40.219Z
 startTime: 2024-04-17T12:12:55.947Z
 generator: Upptime <https://github.com/upptime/upptime>
