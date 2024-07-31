@@ -132,36 +132,40 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1161,
     "timeDay": 693,
-    "timeWeek": 880,
+    "timeWeek": 899,
     "timeMonth": 931,
     "timeYear": 1161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 1
+    }
   },
   {
     "name": "Matomo Tracker API",
     "url": "https://analytics.openbookpublishers.com/matomo.php",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "matomo-tracker-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 91,
-    "timeWeek": 123,
+    "timeWeek": 128,
     "timeMonth": 120,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 0
+    }
   },
   {
     "name": "OBC Nextcloud",
