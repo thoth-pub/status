@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 646,
-    "timeDay": 594,
-    "timeWeek": 600,
+    "timeDay": 588,
+    "timeWeek": 598,
     "timeMonth": 659,
     "timeYear": 646,
     "dailyMinutesDown": {}
@@ -24,18 +24,16 @@
     "slug": "thoth-graph-ql-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 12627,
-    "timeWeek": 5050,
+    "time": 857,
+    "timeDay": 12587,
+    "timeWeek": 4533,
     "timeMonth": 1695,
-    "timeYear": 860,
-    "dailyMinutesDown": {
-      "2024-08-21": 8
-    }
+    "timeYear": 857,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thoth Export API",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 527,
-    "timeDay": 504,
-    "timeWeek": 478,
+    "time": 526,
+    "timeDay": 393,
+    "timeWeek": 466,
     "timeMonth": 584,
-    "timeYear": 527,
+    "timeYear": 526,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 180,
-    "timeWeek": 185,
+    "timeDay": 178,
+    "timeWeek": 184,
     "timeMonth": 199,
     "timeYear": 202,
     "dailyMinutesDown": {}
@@ -85,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 520,
-    "timeWeek": 516,
+    "timeDay": 573,
+    "timeWeek": 524,
     "timeMonth": 509,
     "timeYear": 522,
     "dailyMinutesDown": {}
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
-    "time": 970,
-    "timeDay": 762,
-    "timeWeek": 789,
-    "timeMonth": 1530,
-    "timeYear": 970,
+    "time": 967,
+    "timeDay": 574,
+    "timeWeek": 758,
+    "timeMonth": 1527,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2024-07-25": 84
     }
@@ -123,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 567,
-    "timeWeek": 572,
-    "timeMonth": 561,
+    "timeDay": 418,
+    "timeWeek": 550,
+    "timeMonth": 557,
     "timeYear": 538,
     "dailyMinutesDown": {}
   },
@@ -140,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.77%",
-    "time": 1118,
-    "timeDay": 736,
-    "timeWeek": 774,
-    "timeMonth": 839,
-    "timeYear": 1118,
+    "time": 1116,
+    "timeDay": 801,
+    "timeWeek": 777,
+    "timeMonth": 838,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2024-08-01": 222,
       "2024-07-31": 203
@@ -162,7 +160,7 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.77%",
     "time": 141,
-    "timeDay": 98,
+    "timeDay": 106,
     "timeWeek": 104,
     "timeMonth": 113,
     "timeYear": 141,
@@ -182,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1268,
-    "timeDay": 1109,
-    "timeWeek": 1120,
-    "timeMonth": 1014,
-    "timeYear": 1268,
+    "time": 1264,
+    "timeDay": 756,
+    "timeWeek": 1068,
+    "timeMonth": 1000,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2024-06-16": 127
     }
@@ -203,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
-    "timeDay": 604,
-    "timeWeek": 607,
-    "timeMonth": 662,
+    "timeDay": 633,
+    "timeWeek": 611,
+    "timeMonth": 664,
     "timeYear": 662,
     "dailyMinutesDown": {}
   },
@@ -220,11 +218,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 935,
-    "timeWeek": 925,
-    "timeMonth": 1023,
-    "timeYear": 1035,
+    "time": 1033,
+    "timeDay": 830,
+    "timeWeek": 912,
+    "timeMonth": 1020,
+    "timeYear": 1033,
     "dailyMinutesDown": {}
   }
 ]
