@@ -132,40 +132,36 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "matomo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 1135,
-    "timeWeek": 1034,
-    "timeMonth": 889,
-    "timeYear": 1035,
-    "dailyMinutesDown": {
-      "2024-11-05": 1
-    }
+    "time": 1034,
+    "timeDay": 922,
+    "timeWeek": 994,
+    "timeMonth": 883,
+    "timeYear": 1034,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matomo Tracker API",
     "url": "https://analytics.openbookpublishers.com/matomo.php",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "matomo-tracker-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 107,
-    "timeWeek": 132,
-    "timeMonth": 116,
+    "timeDay": 101,
+    "timeWeek": 127,
+    "timeMonth": 115,
     "timeYear": 132,
-    "dailyMinutesDown": {
-      "2024-11-05": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OBC Nextcloud",
