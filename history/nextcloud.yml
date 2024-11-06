@@ -1,7 +1,7 @@
-url: https://cloud.obpcloud.org/status.php
+url: https://cloud.thoth.pub/status.php
 status: up
 code: 200
-responseTime: 1048
-lastUpdated: 2024-11-06T11:23:42.643Z
+responseTime: 855
+lastUpdated: 2024-11-06T11:40:52.729Z
 startTime: 2024-04-17T12:12:55.947Z
 generator: Upptime <https://github.com/upptime/upptime>
