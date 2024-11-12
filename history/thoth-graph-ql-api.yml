@@ -1,7 +1,7 @@
 url: https://api.thoth.pub/
-status: up
-code: 200
-responseTime: 491
-lastUpdated: 2024-11-11T23:02:39.653Z
+status: down
+code: 408
+responseTime: 13987
+lastUpdated: 2024-11-12T12:06:41.405Z
 startTime: 2024-04-17T12:12:53.518Z
 generator: Upptime <https://github.com/upptime/upptime>
