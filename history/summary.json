@@ -117,19 +117,19 @@
     "url": "https://mattermost.obpcloud.org",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "mattermost",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 433,
-    "timeWeek": 573,
-    "timeMonth": 554,
-    "timeYear": 546,
+    "time": 545,
+    "timeDay": 449,
+    "timeWeek": 560,
+    "timeMonth": 551,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 10
     }
   },
   {
