@@ -1,7 +1,7 @@
 url: https://cloud.thoth.pub/status.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-06T00:35:26.221Z
+status: up
+code: 200
+responseTime: 4624
+lastUpdated: 2025-01-06T01:01:41.548Z
 startTime: 2024-04-17T12:12:55.947Z
 generator: Upptime <https://github.com/upptime/upptime>
