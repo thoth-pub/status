@@ -107,7 +107,7 @@
     "time": 2691,
     "timeDay": 677,
     "timeWeek": 746,
-    "timeMonth": 5294,
+    "timeMonth": 5116,
     "timeYear": 2691,
     "dailyMinutesDown": {}
   },
@@ -182,9 +182,9 @@
     "url": "https://cloud.openbookcollective.org/status.php",
     "icon": "https://openbookcollective.org/static/img/favicon.ico",
     "slug": "obc-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -194,6 +194,7 @@
     "timeMonth": 921,
     "timeYear": 1087,
     "dailyMinutesDown": {
+      "2025-02-05": 0,
       "2024-10-16": 62,
       "2024-09-06": 46,
       "2024-06-16": 127
