@@ -98,18 +98,20 @@
     "url": "https://cloud.thoth.pub/status.php",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2618,
-    "timeDay": 710,
-    "timeWeek": 598,
-    "timeMonth": 663,
-    "timeYear": 2618,
-    "dailyMinutesDown": {}
+    "time": 2614,
+    "timeDay": 827,
+    "timeWeek": 641,
+    "timeMonth": 672,
+    "timeYear": 2614,
+    "dailyMinutesDown": {
+      "2025-02-20": 0
+    }
   },
   {
     "name": "Mattermost",
