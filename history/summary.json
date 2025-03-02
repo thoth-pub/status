@@ -98,9 +98,9 @@
     "url": "https://cloud.thoth.pub/status.php",
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 602,
     "timeMonth": 634,
     "timeYear": 2562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 0
+    }
   },
   {
     "name": "Mattermost",
