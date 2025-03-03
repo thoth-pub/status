@@ -99,18 +99,18 @@
     "icon": "https://cdn.thoth.pub/thoth_logo.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "25.65%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.73%",
+    "uptimeDay": "14.71%",
+    "uptimeWeek": "87.82%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "99.73%",
     "time": 2610,
     "timeDay": 23367,
     "timeWeek": 3864,
     "timeMonth": 1385,
     "timeYear": 2610,
     "dailyMinutesDown": {
-      "2025-03-03": 469,
+      "2025-03-03": 627,
       "2025-03-02": 602
     }
   },
@@ -206,18 +206,20 @@
     "url": "https://www.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 656,
-    "timeDay": 514,
-    "timeWeek": 659,
+    "timeDay": 575,
+    "timeWeek": 656,
     "timeMonth": 630,
     "timeYear": 656,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "OBP Blog",
