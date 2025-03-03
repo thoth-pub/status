@@ -100,9 +100,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "14.71%",
-    "uptimeWeek": "87.82%",
-    "uptimeMonth": "97.20%",
+    "uptimeDay": "14.00%",
+    "uptimeWeek": "87.71%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "99.73%",
     "time": 2610,
     "timeDay": 23367,
@@ -110,7 +110,7 @@
     "timeMonth": 1385,
     "timeYear": 2610,
     "dailyMinutesDown": {
-      "2025-03-03": 627,
+      "2025-03-03": 637,
       "2025-03-02": 602
     }
   },
@@ -206,19 +206,19 @@
     "url": "https://www.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 656,
-    "timeDay": 575,
-    "timeWeek": 656,
+    "timeDay": 588,
+    "timeWeek": 651,
     "timeMonth": 630,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 10
     }
   },
   {
