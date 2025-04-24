@@ -239,9 +239,9 @@
     "url": "https://blogs.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.43%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.91%",
@@ -251,6 +251,7 @@
     "timeMonth": 782,
     "timeYear": 991,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2025-04-21": 259,
       "2025-04-14": 196
     }
