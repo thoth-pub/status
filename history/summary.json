@@ -22,18 +22,20 @@
     "url": "https://api.thoth.pub/",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 798,
-    "timeDay": 597,
-    "timeWeek": 564,
-    "timeMonth": 550,
+    "timeDay": 636,
+    "timeWeek": 578,
+    "timeMonth": 554,
     "timeYear": 830,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 0
+    }
   },
   {
     "name": "Thoth Export API",
