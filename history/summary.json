@@ -22,19 +22,19 @@
     "url": "https://api.thoth.pub/",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-graph-ql-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 798,
-    "timeDay": 636,
-    "timeWeek": 578,
-    "timeMonth": 554,
+    "timeDay": 643,
+    "timeWeek": 587,
+    "timeMonth": 557,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2025-05-24": 0
+      "2025-05-24": 23
     }
   },
   {
