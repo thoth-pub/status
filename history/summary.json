@@ -132,19 +132,19 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1228,
-    "timeDay": 1893,
-    "timeWeek": 1604,
-    "timeMonth": 1396,
-    "timeYear": 1261,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "89.63%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 1230,
+    "timeDay": 2115,
+    "timeWeek": 1685,
+    "timeMonth": 1420,
+    "timeYear": 1264,
     "dailyMinutesDown": {
-      "2025-05-26": 1
+      "2025-05-26": 149
     }
   },
   {
@@ -152,19 +152,19 @@
     "url": "https://analytics.openbookpublishers.com/matomo.php",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo-tracker-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
     "time": 200,
-    "timeDay": 309,
-    "timeWeek": 467,
-    "timeMonth": 522,
-    "timeYear": 207,
+    "timeDay": 308,
+    "timeWeek": 449,
+    "timeMonth": 517,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-05-26": 1
+      "2025-05-26": 149
     }
   },
   {
@@ -208,19 +208,19 @@
     "url": "https://blogs.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 903,
-    "timeWeek": 717,
-    "timeMonth": 1291,
-    "timeYear": 1050,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "89.69%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
+    "time": 1041,
+    "timeDay": 847,
+    "timeWeek": 725,
+    "timeMonth": 1278,
+    "timeYear": 1049,
     "dailyMinutesDown": {
-      "2025-05-26": 0
+      "2025-05-26": 148
     }
   }
 ]
