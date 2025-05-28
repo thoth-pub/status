@@ -96,9 +96,9 @@
     "url": "https://cloud.thoth.pub/status.php",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 637,
     "timeMonth": 679,
     "timeYear": 2487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   },
   {
     "name": "Mattermost",
@@ -133,15 +135,15 @@
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 1230,
     "timeDay": 1300,
     "timeWeek": 1468,
-    "timeMonth": 1417,
+    "timeMonth": 1372,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2025-05-26": 149
@@ -161,7 +163,7 @@
     "time": 200,
     "timeDay": 204,
     "timeWeek": 227,
-    "timeMonth": 516,
+    "timeMonth": 518,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-05-26": 149
@@ -217,7 +219,7 @@
     "time": 1039,
     "timeDay": 587,
     "timeWeek": 700,
-    "timeMonth": 1277,
+    "timeMonth": 1289,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2025-05-26": 148
