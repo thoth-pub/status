@@ -1,7 +1,7 @@
 url: https://cloud.openbookcollective.org/status.php
-status: down
-code: 502
-responseTime: 805
-lastUpdated: 2025-05-29T09:08:55.080Z
+status: up
+code: 200
+responseTime: 1022
+lastUpdated: 2025-05-29T09:22:25.723Z
 startTime: 2024-04-17T14:40:37.914Z
 generator: Upptime <https://github.com/upptime/upptime>
