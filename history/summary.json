@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 646,
-    "timeDay": 867,
-    "timeWeek": 696,
-    "timeMonth": 673,
-    "timeYear": 649,
+    "timeDay": 567,
+    "timeWeek": 684,
+    "timeMonth": 672,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 426,
-    "timeWeek": 507,
-    "timeMonth": 544,
-    "timeYear": 824,
+    "timeDay": 815,
+    "timeWeek": 556,
+    "timeMonth": 554,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2025-05-24": 23
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 409,
-    "timeWeek": 500,
-    "timeMonth": 527,
-    "timeYear": 559,
+    "time": 547,
+    "timeDay": 750,
+    "timeWeek": 562,
+    "timeMonth": 537,
+    "timeYear": 560,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 178,
-    "timeWeek": 192,
-    "timeMonth": 190,
+    "timeDay": 148,
+    "timeWeek": 193,
+    "timeMonth": 189,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 447,
-    "timeWeek": 530,
-    "timeMonth": 509,
-    "timeYear": 526,
+    "timeDay": 338,
+    "timeWeek": 532,
+    "timeMonth": 504,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   },
   {
@@ -98,15 +98,15 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "66.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.21%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.91%",
-    "time": 2452,
-    "timeDay": 11648,
+    "time": 2448,
+    "timeDay": 9983,
     "timeWeek": 7766,
-    "timeMonth": 3422,
-    "timeYear": 2709,
+    "timeMonth": 3417,
+    "timeYear": 2708,
     "dailyMinutesDown": {
       "2025-05-28": 483
     }
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 564,
-    "timeWeek": 578,
-    "timeMonth": 570,
+    "timeDay": 446,
+    "timeWeek": 572,
+    "timeMonth": 567,
     "timeYear": 552,
     "dailyMinutesDown": {}
   },
@@ -135,16 +135,16 @@
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 1231,
-    "timeDay": 1497,
-    "timeWeek": 1514,
-    "timeMonth": 1381,
-    "timeYear": 1265,
+    "timeDay": 1325,
+    "timeWeek": 1535,
+    "timeMonth": 1373,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2025-05-26": 149
     }
@@ -161,9 +161,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 200,
-    "timeDay": 200,
+    "timeDay": 170,
     "timeWeek": 231,
-    "timeMonth": 518,
+    "timeMonth": 290,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-05-26": 149
@@ -176,18 +176,16 @@
     "slug": "obc-nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1351,
-    "timeDay": 909,
+    "timeDay": 936,
     "timeWeek": 988,
-    "timeMonth": 958,
-    "timeYear": 1412,
-    "dailyMinutesDown": {
-      "2025-05-29": 1
-    }
+    "timeMonth": 956,
+    "timeYear": 1413,
+    "dailyMinutesDown": {}
   },
   {
     "name": "OBP Website",
@@ -200,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 600,
-    "timeWeek": 676,
-    "timeMonth": 658,
-    "timeYear": 650,
+    "time": 647,
+    "timeDay": 495,
+    "timeWeek": 674,
+    "timeMonth": 654,
+    "timeYear": 649,
     "dailyMinutesDown": {}
   },
   {
@@ -218,11 +216,11 @@
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
-    "time": 1038,
-    "timeDay": 594,
-    "timeWeek": 690,
-    "timeMonth": 1288,
-    "timeYear": 1046,
+    "time": 1037,
+    "timeDay": 556,
+    "timeWeek": 692,
+    "timeMonth": 803,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-05-26": 148
     }
