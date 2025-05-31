@@ -134,10 +134,10 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.50%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
     "time": 1232,
@@ -146,6 +146,7 @@
     "timeMonth": 1377,
     "timeYear": 1267,
     "dailyMinutesDown": {
+      "2025-05-31": 1,
       "2025-05-26": 149
     }
   },
@@ -154,10 +155,10 @@
     "url": "https://analytics.openbookpublishers.com/matomo.php",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo-tracker-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.51%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 200,
@@ -166,6 +167,7 @@
     "timeMonth": 291,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2025-05-31": 1,
       "2025-05-26": 149
     }
   },
@@ -210,10 +212,10 @@
     "url": "https://blogs.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.53%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.52%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 1036,
@@ -222,6 +224,7 @@
     "timeMonth": 803,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2025-05-26": 148
     }
   }
