@@ -42,18 +42,20 @@
     "url": "https://export.thoth.pub",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-export-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 537,
-    "timeDay": 373,
-    "timeWeek": 397,
-    "timeMonth": 412,
-    "timeYear": 544,
-    "dailyMinutesDown": {}
+    "timeDay": 368,
+    "timeWeek": 393,
+    "timeMonth": 410,
+    "timeYear": 543,
+    "dailyMinutesDown": {
+      "2025-06-29": 0
+    }
   },
   {
     "name": "Thoth Website",
@@ -105,7 +107,7 @@
     "time": 2346,
     "timeDay": 661,
     "timeWeek": 519,
-    "timeMonth": 2892,
+    "timeMonth": 566,
     "timeYear": 2691,
     "dailyMinutesDown": {
       "2025-05-28": 483
@@ -135,11 +137,11 @@
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.27%",
     "uptimeMonth": "94.88%",
-    "uptimeYear": "96.43%",
+    "uptimeYear": "96.46%",
     "time": 1273,
     "timeDay": 1016,
     "timeWeek": 1416,
