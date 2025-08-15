@@ -42,19 +42,19 @@
     "url": "https://export.thoth.pub",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-export-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 5352,
-    "timeWeek": 1679,
-    "timeMonth": 727,
-    "timeYear": 552,
+    "time": 547,
+    "timeDay": 3648,
+    "timeWeek": 1519,
+    "timeMonth": 713,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 2
     }
   },
   {
