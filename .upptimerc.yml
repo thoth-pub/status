@@ -32,9 +32,6 @@ sites:
   - name: Matomo
     url: https://analytics.openbookpublishers.com/index.php?module=Login
     icon: https://cdn.thoth.pub/THOTH_Head.png
-  - name: Matomo Tracker API
-    url: https://analytics.openbookpublishers.com/matomo.php
-    icon: https://cdn.thoth.pub/THOTH_Head.png
   - name: OBC Nextcloud
     url: https://cloud.openbookcollective.org/status.php
     icon: https://openbookcollective.org/static/img/favicon.ico
@@ -43,9 +40,6 @@ sites:
       - 400
   - name: OBP Website
     url: https://www.openbookpublishers.com/
-    icon: https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png
-  - name: OBP Blog
-    url: https://blogs.openbookpublishers.com/
     icon: https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png
 
 status-website:
