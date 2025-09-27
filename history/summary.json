@@ -130,9 +130,9 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 1398,
     "timeMonth": 1457,
     "timeYear": 1413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-27": 0
+    }
   },
   {
     "name": "OBC Nextcloud",
