@@ -130,20 +130,19 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1328,
     "timeDay": 1625,
     "timeWeek": 1478,
     "timeMonth": 1459,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2025-10-06": 375,
-      "2025-09-29": 380
+      "2025-10-09": 0
     }
   },
   {
