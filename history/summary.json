@@ -94,19 +94,19 @@
     "url": "https://cloud.thoth.pub/status.php",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2213,
-    "timeDay": 520,
-    "timeWeek": 537,
-    "timeMonth": 608,
-    "timeYear": 2659,
+    "time": 2214,
+    "timeDay": 575,
+    "timeWeek": 553,
+    "timeMonth": 610,
+    "timeYear": 2655,
     "dailyMinutesDown": {
-      "2025-10-09": 0
+      "2025-10-09": 4
     }
   },
   {
