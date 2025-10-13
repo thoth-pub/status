@@ -132,9 +132,9 @@
     "url": "https://analytics.openbookpublishers.com/index.php?module=Login",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -144,6 +144,7 @@
     "timeMonth": 1492,
     "timeYear": 1442,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-10-09": 16
     }
   },
