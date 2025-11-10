@@ -58,19 +58,19 @@
     "url": "https://thoth.pub/",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 129,
-    "timeWeek": 182,
-    "timeMonth": 185,
+    "timeDay": 119,
+    "timeWeek": 173,
+    "timeMonth": 182,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-11-10": 13
+      "2025-11-10": 0
     }
   },
   {
