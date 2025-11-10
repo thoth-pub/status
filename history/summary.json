@@ -58,18 +58,20 @@
     "url": "https://thoth.pub/",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 138,
-    "timeWeek": 199,
-    "timeMonth": 188,
-    "timeYear": 189,
-    "dailyMinutesDown": {}
+    "time": 189,
+    "timeDay": 105,
+    "timeWeek": 183,
+    "timeMonth": 185,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   },
   {
     "name": "Strapi",
