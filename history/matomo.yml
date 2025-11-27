@@ -1,7 +1,7 @@
 url: https://analytics.openbookpublishers.com/index.php?module=Login
-status: down
-code: 502
-responseTime: 4043
-lastUpdated: 2025-11-27T08:54:45.934Z
+status: up
+code: 200
+responseTime: 1913
+lastUpdated: 2025-11-27T09:05:47.745Z
 startTime: 2025-05-13T09:37:05.621Z
 generator: Upptime <https://github.com/upptime/upptime>
