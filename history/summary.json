@@ -4,19 +4,19 @@
     "url": "https://thoth.pub/admin",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 0,
-    "timeWeek": 663,
-    "timeMonth": 603,
-    "timeYear": 618,
+    "timeDay": 1216,
+    "timeWeek": 742,
+    "timeMonth": 623,
+    "timeYear": 619,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 10
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://thoth.pub/",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 0,
-    "timeWeek": 219,
-    "timeMonth": 210,
+    "timeDay": 35,
+    "timeWeek": 193,
+    "timeMonth": 205,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 10
     }
   },
   {
@@ -172,19 +172,19 @@
     "url": "https://www.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 0,
-    "timeWeek": 656,
-    "timeMonth": 616,
-    "timeYear": 606,
+    "time": 617,
+    "timeDay": 439,
+    "timeWeek": 625,
+    "timeMonth": 610,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 10
     }
   }
 ]
