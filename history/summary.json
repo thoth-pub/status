@@ -40,18 +40,20 @@
     "url": "https://export.thoth.pub",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-export-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 542,
-    "timeDay": 0,
-    "timeWeek": 558,
-    "timeMonth": 502,
-    "timeYear": 547,
-    "dailyMinutesDown": {}
+    "timeDay": 861,
+    "timeWeek": 601,
+    "timeMonth": 514,
+    "timeYear": 548,
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "Thoth Website",
