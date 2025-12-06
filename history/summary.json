@@ -6,18 +6,16 @@
     "slug": "thoth-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 1216,
-    "timeWeek": 742,
-    "timeMonth": 623,
+    "timeDay": 936,
+    "timeWeek": 751,
+    "timeMonth": 626,
     "timeYear": 619,
-    "dailyMinutesDown": {
-      "2025-12-05": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thoth GraphQL API",
@@ -30,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 0,
-    "timeWeek": 639,
+    "time": 716,
+    "timeDay": 464,
+    "timeWeek": 587,
     "timeMonth": 481,
     "timeYear": 500,
     "dailyMinutesDown": {}
@@ -49,8 +47,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 542,
-    "timeDay": 587,
-    "timeWeek": 565,
+    "timeDay": 582,
+    "timeWeek": 598,
     "timeMonth": 507,
     "timeYear": 547,
     "dailyMinutesDown": {
@@ -64,18 +62,16 @@
     "slug": "thoth-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 35,
-    "timeWeek": 193,
-    "timeMonth": 205,
-    "timeYear": 191,
-    "dailyMinutesDown": {
-      "2025-12-05": 10
-    }
+    "time": 190,
+    "timeDay": 29,
+    "timeWeek": 170,
+    "timeMonth": 197,
+    "timeYear": 190,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Strapi",
@@ -89,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 0,
-    "timeWeek": 519,
-    "timeMonth": 484,
-    "timeYear": 482,
+    "timeDay": 395,
+    "timeWeek": 503,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -107,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2195,
-    "timeDay": 0,
-    "timeWeek": 570,
-    "timeMonth": 597,
-    "timeYear": 2538,
+    "timeDay": 389,
+    "timeWeek": 537,
+    "timeMonth": 587,
+    "timeYear": 2537,
     "dailyMinutesDown": {}
   },
   {
@@ -125,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 524,
-    "timeDay": 0,
+    "timeDay": 485,
     "timeWeek": 524,
-    "timeMonth": 470,
+    "timeMonth": 471,
     "timeYear": 512,
     "dailyMinutesDown": {}
   },
@@ -143,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1367,
-    "timeDay": 2152,
-    "timeWeek": 1780,
-    "timeMonth": 1655,
-    "timeYear": 1503,
+    "timeDay": 1086,
+    "timeWeek": 1751,
+    "timeMonth": 1644,
+    "timeYear": 1501,
     "dailyMinutesDown": {}
   },
   {
@@ -161,10 +157,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1245,
-    "timeDay": 0,
-    "timeWeek": 931,
-    "timeMonth": 828,
-    "timeYear": 1275,
+    "timeDay": 637,
+    "timeWeek": 869,
+    "timeMonth": 810,
+    "timeYear": 1274,
     "dailyMinutesDown": {}
   },
   {
@@ -174,17 +170,15 @@
     "slug": "obp-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 439,
-    "timeWeek": 625,
-    "timeMonth": 610,
-    "timeYear": 605,
-    "dailyMinutesDown": {
-      "2025-12-05": 10
-    }
+    "time": 616,
+    "timeDay": 332,
+    "timeWeek": 577,
+    "timeMonth": 594,
+    "timeYear": 604,
+    "dailyMinutesDown": {}
   }
 ]
