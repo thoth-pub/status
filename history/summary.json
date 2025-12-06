@@ -168,8 +168,8 @@
     "slug": "obp-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 615,
@@ -178,7 +178,7 @@
     "timeMonth": 576,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-12-06": 0
+      "2025-12-06": 1
     }
   }
 ]
