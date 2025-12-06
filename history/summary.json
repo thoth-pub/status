@@ -166,19 +166,17 @@
     "url": "https://www.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 320,
-    "timeWeek": 517,
-    "timeMonth": 576,
-    "timeYear": 602,
-    "dailyMinutesDown": {
-      "2025-12-06": 1
-    }
+    "time": 614,
+    "timeDay": 326,
+    "timeWeek": 500,
+    "timeMonth": 569,
+    "timeYear": 601,
+    "dailyMinutesDown": {}
   }
 ]
