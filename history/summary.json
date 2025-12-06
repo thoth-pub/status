@@ -4,9 +4,9 @@
     "url": "https://thoth.pub/admin",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 751,
     "timeMonth": 626,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-06": 0
+    }
   },
   {
     "name": "Thoth GraphQL API",
@@ -60,9 +62,9 @@
     "url": "https://thoth.pub/",
     "icon": "https://cdn.thoth.pub/THOTH_Head.png",
     "slug": "thoth-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 170,
     "timeMonth": 197,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-06": 0
+    }
   },
   {
     "name": "Strapi",
@@ -168,9 +172,9 @@
     "url": "https://www.openbookpublishers.com/",
     "icon": "https://cdn.openbookpublishers.com/favicon_e70e5e5e85.png",
     "slug": "obp-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,6 +183,8 @@
     "timeWeek": 577,
     "timeMonth": 594,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-06": 0
+    }
   }
 ]
